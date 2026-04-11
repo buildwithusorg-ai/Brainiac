@@ -1,0 +1,17 @@
+# datasets
+BraTS2020_TrainingData/
+BraTS2020_ValidationData/
+archive/
+data/
+processed/
+slices/
+
+# environment
+brainiac_env/
+
+# large files
+*.h5
+*.npy
+
+# system
+.DS_Store
